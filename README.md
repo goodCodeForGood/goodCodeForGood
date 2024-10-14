@@ -1,4 +1,5 @@
-# Hello there 🙋🏻‍♀️! I am Sahiti Hibane. Welcome to my GitHub profile.
+# Hello, I am Sahiti Hibane 🙋🏻‍♀️
+### Welcome to my GitHub profile! 
  
 👩🏻‍🎓 I am a recent Software Engineering graduate from San Jose State University.
 
