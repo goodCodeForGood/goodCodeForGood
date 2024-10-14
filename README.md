@@ -6,4 +6,4 @@
 
 👩🏻‍💻 I have experience in web development, AI, and Machine Learning.
 
-📫 Feel free to contact me on [Linkedin] (https://www.linkedin.com/in/sahiti-hibane/).
+📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/sahiti-hibane/).
