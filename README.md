@@ -4,11 +4,11 @@
 
 👩🏻‍🎓 I am a recent Software Engineering graduate from San Jose State University.
 
-🌱 My goal is to create impactful, user-centered software solutions using advanced technologies to improve everyone's lives.
+🌱 My goal is to create impactful, customer-centric software solutions using advanced technologies to improve everyone's lives.
 
-👩🏻‍💻 I have experience in web development, AI, and Machine Learning.
+👩🏻‍💻 I have experience in full-stack, frontend, and backend web development, AI, Machine Learning, and Cloud Technologies.
 
-📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/sahiti-hibane/).
+📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sahiti-hibane/).
 
 ---
 
